@@ -1,0 +1,16 @@
+---
+title: "dl"
+author: "David Lin"
+date: "2023-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. fun fact:
+never do sports on ice
+
+2. fun fact:
+lived in beijing and shenzhen
